@@ -1,6 +1,6 @@
 # 📌 EDA:Insurance Claims Data 
 
-## 📌 Project Overview
+## 🔍 Project Overview
 This project focuses on **exploratory data analysis (EDA) and risk assessment** in insurance claims data. The goal is to clean, analyze, and extract insights to access the risk and detect fraudulent claims and improve decision-making.
 
 ## 📊 Key Tasks & Insights
